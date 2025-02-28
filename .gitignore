@@ -1,0 +1,14 @@
+.idea
+**/.vscode
+.venv
+venv
+**/__pycache__/**
+build
+**/.env
+verified-inference/enclave/.DS_Store
+.DS_Store
+*.key
+
+**/**/node_modules
+SDKs/JS/dist
+**node_modules
