@@ -1,6 +1,6 @@
-# Sentience
+# Lumiviel
 
-Sentience enables developers to build autonomous, fully on-chain verifiable AI agents with an OpenAI-compatible Proof of Sentience SDK.
+Lumiviel enables developers to build autonomous, fully on-chain verifiable AI agents with an OpenAI-compatible Proof of Sentience SDK.
 
 <img src="assets/sentience-banner.png" alt="Banner" width="100%" />
 
@@ -8,8 +8,8 @@ Sentience enables developers to build autonomous, fully on-chain verifiable AI a
       <a href="https://discord.gg/invite/galadriel">
       <img src="https://img.shields.io/discord/1042405378304004156?logo=discord"
           alt="chat on Discord"></a>
-      <a href="https://twitter.com/intent/follow?screen_name=Galadriel_AI">
-      <img src="https://img.shields.io/twitter/follow/Galadriel_AI"
+      <a href="https://twitter.com/intent/follow?screen_name=LumivielAi">
+      <img src="https://img.shields.io/twitter/follow/LumivielAi"
           alt="follow on Twitter"></a>
   <br>
   <a href="#quickstart">Quickstart</a> |
@@ -17,7 +17,7 @@ Sentience enables developers to build autonomous, fully on-chain verifiable AI a
   <a href="#features">Features</a> |
   <a href="#roadmap">Roadmap</a> |
   <a href="#getting-help">Help</a> |
-  <a href="https://docs.galadriel.com/">Docs</a>
+  <a href="https://lumivielai.com/docs">Docs</a>
 </p>
 
 ## **Why sentient agents?**
