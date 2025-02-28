@@ -5,9 +5,7 @@ Lumiviel enables developers to build autonomous, fully on-chain verifiable AI ag
 <img src="assets/sentience-banner.png" alt="Banner" width="100%" />
 
 <p align="center">
-      <a href="https://discord.gg/invite/galadriel">
-      <img src="https://img.shields.io/discord/1042405378304004156?logo=discord"
-          alt="chat on Discord"></a>
+      
       <a href="https://twitter.com/intent/follow?screen_name=LumivielAi">
       <img src="https://img.shields.io/twitter/follow/LumivielAi"
           alt="follow on Twitter"></a>
