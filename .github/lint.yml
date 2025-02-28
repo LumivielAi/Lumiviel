@@ -1,0 +1,19 @@
+name: Lint
+
+on: 
+  push:
+    paths-ignore:
+      - 'verified-inference/solana-attestation-contract/**'
+  pull_request:
+    paths-ignore:
+      - 'verified-inference/solana-attestation-contract/**'
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: psf/black@stable
+        with:
+          options: "--check --verbose"
+          src: "verified-inference"
