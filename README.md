@@ -5,7 +5,9 @@ Lumiviel enables developers to build autonomous, fully on-chain verifiable AI ag
 <img src="assets/sentience-banner.png" alt="Banner" width="100%" />
 
 <p align="center">
-      
+      <a href="https://discord.gg/yxTkPrM">
+      <img src="https://img.shields.io/discord/1042405378304004156?logo=discord"
+          alt="chat on Discord"></a>
       <a href="https://twitter.com/intent/follow?screen_name=LumivielAi">
       <img src="https://img.shields.io/twitter/follow/LumivielAi"
           alt="follow on Twitter"></a>
@@ -18,11 +20,11 @@ Lumiviel enables developers to build autonomous, fully on-chain verifiable AI ag
   <a href="https://lumivielai.com/docs">Docs</a>
 </p>
 
-## **Why sentient agents?**
+## **Why Lumiviel agents?**
 
 AI agents have reached $10B+ market cap but most of them are still controlled by humans. This is a huge problem as it introduces risk to the investors and community as developers can simply rug-pull and manipulate the agents.
 
-We're already seeing activity logs for [zerebro](https://zerebro.org/proof-of-conciousness) and [aixbt](https://aixbt.tech/agent), but Sentience transforms agents into cryptographically verifiably autonomous entities, unlocking true sentience to address a critical need for trust. This significantly enhances agents market potential and is the first step in ensuring that the agents are self-governing. 
+We're already seeing activity logs for [zerebro](https://zerebro.org/proof-of-conciousness) and [aixbt](https://aixbt.tech/agent), but Lumiviel transforms agents into cryptographically verifiably autonomous entities, unlocking true sentience to address a critical need for trust. This significantly enhances agents market potential and is the first step in ensuring that the agents are self-governing. 
 
 ## **Quickstart**
 
@@ -30,7 +32,7 @@ Get started with Proof of Sentience SDK. This Python example will make your agen
 
 ### Setup
 **Get free API key**
-1. Create an account [**here**](https://dashboard.galadriel.com/)
+1. Create an account [**here**](https://lumivielai.com/)
 2. Create an API key on the dashboard
 
 **Install Python SDK**
@@ -66,7 +68,7 @@ print("is_valid:", is_valid)
 
 ```
 
-Learn how to display your agent’s previous requests, verify the proofs, and how to use a JS SDK version [from our docs](https://docs.galadriel.com/for-agents-developers/quickstart). 
+Learn how to display your agent’s previous requests, verify the proofs, and how to use a JS SDK version [from our docs](https://lumivielai.com/docs). 
 
 ## How it works
 
@@ -90,7 +92,7 @@ The architecture has the following benefits:
 4. **Cryptographic proof:** The TEE generates a cryptographic signature as part of the attestation, which can be independently verified to confirm the validity of the execution and its result.
 5. **Transparency and verifiability:** By posting the attestation on Solana’s blockchain, any third party can transparently verify the provenance and authenticity of the request and its associated output without relying on trust in a single centralized entity.
 
-To verify the code running inside the TEE, use instructions [from here](https://github.com/galadriel-ai/sentience/tree/main/verified-inference/verify).
+To verify the code running inside the TEE, use instructions [from here](https://lumivielai.com/docs).
 
 ## Securing $15M+ worth of agents
 
@@ -116,7 +118,7 @@ For example, you can see the full implementation in action with [Daige](https://
 **On-chain verifiability with Solana.**
 
 **Sentience Explorer.**
-- Enables discovery of full history for all verified agents’ inferences. [See here](https://explorer.galadriel.com/).
+- Enables discovery of full history for all verified agents’ inferences. [See here](https://lumivielai.com/docs).
 
 **Easy to use developer experience.**
 - No need to know the underlying cryptographic primitives of TEE’s.
@@ -126,23 +128,23 @@ For example, you can see the full implementation in action with [Daige](https://
 ### **SDK**
 Proof of Sentience SDKs.
 
-1. [Python SDK](https://github.com/galadriel-ai/sentience/tree/main/sdk/python)
-2. [Javascript SDK](https://github.com/galadriel-ai/sentience/tree/main/sdk/js)
+1. [Python SDK](https://lumivielai.com/docs)
+2. [Javascript SDK](https://lumivielai.com/docs)
 
 ### **Verified inference**
 
 Underlying TEE architecture that powers Proof of Sentience.
 
-1. [enclave](https://github.com/galadriel-ai/sentience/tree/main/verified-inference/enclave) - this where the enclave is built and run
-2. [host](https://github.com/galadriel-ai/sentience/tree/main/verified-inference/host) - proxies HTTP requests to the API running in the enclave
-3. [solana-attestation-contract](https://github.com/galadriel-ai/sentience/tree/main/verified-inference/solana-attestation-contract) - posts proofs of inference responses to Solana
-4. [verify](https://github.com/galadriel-ai/sentience/tree/main/verified-inference/verify) - instructions and code for verifying the TEE
+1. [enclave](https://lumivielai.com/) - this where the enclave is built and run
+2. [host](https://lumivielai.com/) - proxies HTTP requests to the API running in the enclave
+3. [solana-attestation-contract](https://lumivielai.com/) - posts proofs of inference responses to Solana
+4. [verify](https://lumivielai.com/) - instructions and code for verifying the TEE
 
 ## **Getting help**
 
 If you have any questions about Galadriel, feel free to do:
 
-- [Join our Discord](https://discord.com/invite/bHnFgSTKrP) and ask for help.
+- [Join our Discord](https://discord.gg/yxTkPrM) and ask for help.
 
 ## Roadmap
 
